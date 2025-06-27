@@ -15,7 +15,7 @@ Topics covered include:
 
 - `Phase I.zip` – Initial submission containing early-phase designs, goals, and data preprocessing strategy
 - `Phase II.zip` – Final submission demonstrating improvements, added functionality, and refinements based on code quality feedback
-- `Syllabus.pdf` – Course syllabus outlining objectives, learning outcomes, and grading criteria
+- `SWE 520 Syllabus Summer 2025.pdf` – Course syllabus outlining objectives, learning outcomes, and grading criteria
 
 ## 🔬 Project Summary
 
