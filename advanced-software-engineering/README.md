@@ -12,7 +12,7 @@ This course focused on foundational and modern software engineering principles, 
 
 ## 📁 Contents
 - `MidTerm.docx.pdf` – Group-based midterm exam covering systems modeling, architecture, and risk analysis  
-- `Final Exam.docx.pdf` – Final exam with scenario-based questions on the full software development lifecycle  
+- `FinalExam.pdf` – Final exam with scenario-based questions on the full software development lifecycle  
 - `Syllabus CSC-580 - Winter 2025.pdf` – Official course syllabus outlining learning objectives and weekly topics
 
 ## 🔗 Summary
